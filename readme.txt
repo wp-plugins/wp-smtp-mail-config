@@ -2,7 +2,7 @@
 Contributors: TCSS
 Tags: mail, smtp, wp_mail, mailer, phpmailer, CONFIG, SMTP CONFIG
 Requires at least: 2.7
-Tested up to: 3.7.1
+Tested up to: 4.2.1
 Stable tag: 0.9.4
 
 Configures the wp_mail() function to use SMTP instead of mail() and creates an options page to manage the settings.
